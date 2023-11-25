@@ -53,3 +53,4 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## RESULT
+The program is executed successfully.
